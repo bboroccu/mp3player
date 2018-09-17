@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "67811d07-f476-3747-bf75-89b063331050++9052" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "67811d07-f476-3747-bf75-89b063331050++9052" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5BD3F4E7-F476-47D4-9554-5C3DE0268F53",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "67811d07-f476-3747-bf75-89b063331050++9052" : "workspace\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Mp3Test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Mp3Test\/Mp3Test.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.unims.pe.kr\/svn\/Talk",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67811d07-f476-3747-bf75-89b063331050++9052"
+    }
+  ]
+}
